@@ -1,0 +1,15 @@
+# 编译产物
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+*.ilk
+*.class
+
+# 本地编辑器与系统文件
+.vscode/
+.vs/
+.idea/
+.DS_Store
+Thumbs.db
