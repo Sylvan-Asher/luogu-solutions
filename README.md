@@ -24,7 +24,6 @@
 - [深入浅出基础篇官方题单](https://www.luogu.com.cn/training/list?type=srqc-jc)
 - [深入浅出进阶篇官方题单](https://www.luogu.com.cn/training/list?type=srqc-jj)
 
-目录名称、顺序和题单编号根据 2026-09-28 提供的页面整理。本仓库当前先建立分类框架，不把目录或说明文件计作已完成题目。
-
 更新记录
 2026/9/28 p10001 p3954
+2026/9/29 p2141 p5727 p1428
