@@ -25,5 +25,4 @@
 - [深入浅出进阶篇官方题单](https://www.luogu.com.cn/training/list?type=srqc-jj)
 
 [更新记录](更新记录.md)
-2026/9/28 p10001 p3954
-2026/9/29 p2141 p5727 p1428
+
